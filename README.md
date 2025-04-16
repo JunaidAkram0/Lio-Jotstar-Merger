@@ -1,4 +1,4 @@
-#Jio-Hotstar Merger Analysis
+# Jio-Hotstar Merger Analysis
 
 ## 🚀 Project Overview
 
