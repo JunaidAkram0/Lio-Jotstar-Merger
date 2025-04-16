@@ -1,4 +1,4 @@
-# Jio-Hotstar Merger Analysis
+# Lio-Jotstar Merger Analysis
 
 ## 🚀 Project Overview
 
